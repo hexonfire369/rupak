@@ -1,0 +1,17 @@
+body{
+    background-color:rgb(177, 177, 209)
+}
+h3{
+    background-color: rgb(189, 95, 95);
+}
+p{
+    background-color: rgb(61, 114, 114);
+}
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    min-height: 100vh;
+}
